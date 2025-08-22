@@ -4,7 +4,7 @@ This project is a hands-on implementation of a Book Recommender System built wit
 It guides you from data collection and cleaning through machine learning methods to building a working prototype recommender system.
 
 
-## 🚀 **Project Overview**
+##  **Project Overview**
 
 This project includes:
 
@@ -17,7 +17,7 @@ This project includes:
  Evaluation & Visualizations  
  Prototype UI – Built with Streamlit for easy demo.  
 
-## 🛠️ **Tech Stack**
+##  **Tech Stack**
 
 Python
 Pandas / NumPy  
@@ -84,7 +84,7 @@ In the app sidebar:
 ☁️ Deploy app on Streamlit Cloud  
 🔍 Add advanced filters (genre, author, publication year).  
 
-## 👩‍🎓 **Credits**
+##  **Credits**
 
 Developed as part of a Book Recommendation System assignment, practicing:  
 Web scraping & API usage  
